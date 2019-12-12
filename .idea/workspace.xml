@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c63cccc9-ce5c-4697-afc3-5a380bfadc6d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mughees/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mughees/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mughees/Theatre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mughees/Theatre.java" afterDir="false" />
+    <list default="true" id="c63cccc9-ce5c-4697-afc3-5a380bfadc6d" name="Default" comment="changed methods to private">
+      <change beforePath="$PROJECT_DIR$/out/production/Collections/com/mughees/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Collections/com/mughees/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Collections/com/mughees/Theatre$Seat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Collections/com/mughees/Theatre$Seat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Collections/com/mughees/Theatre.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Collections/com/mughees/Theatre.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -606,6 +606,14 @@
       <updated>1449019616991</updated>
       <workItem from="1449019620307" duration="1367000" />
     </task>
+    <task id="LOCAL-00001" summary="changed methods to private">
+      <created>1576181819212</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576181819212</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -623,6 +631,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changed methods to private" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed methods to private" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
